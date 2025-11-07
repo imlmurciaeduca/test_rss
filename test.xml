@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Mi Blog de Noticias</title>
+  <link>https://USUARIO.github.io/</link>
+  <description>Últimas noticias de mi actividad.</description>
+
+  <item>
+    <title>Mi primer post</title>
+    <link>https://USUARIO.github.io/post1.html</link>
+    <description>He creado mi primer post para el blog.</description>
+    <pubDate>Fri, 07 Nov 2025 10:00:00 +0100</pubDate>
+    <guid>https://USUARIO.github.io/post1.html</guid>
+  </item>
+
+  <item>
+    <title>Mi segundo post</title>
+    <link>https://USUARIO.github.io/post2.html</link>
+    <description>Hablo sobre la importancia del XML.</description>
+    <pubDate>Fri, 07 Nov 2025 11:30:00 +0100</pubDate>
+    <guid>https://USUARIO.github.io/post2.html</guid>
+  </item>
+
+</channel>
+</rss>
