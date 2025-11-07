@@ -21,5 +21,10 @@
     <guid>https://USUARIO.github.io/post2.html</guid>
   </item>
 
+  <item>
+    <title>Mi tercer post</title>
+    <description>Hablo sobre la importancia de RSS.</description>
+  </item>
+
 </channel>
 </rss>
